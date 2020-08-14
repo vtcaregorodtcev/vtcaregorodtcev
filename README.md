@@ -35,6 +35,14 @@
 
 ---
 
+### :date: Latest YouTube Speaches
+
+[React to Svelte. The almost easy way.](https://www.youtube.com/watch?v=FBk5j62O4f0) - Svelte Russia Meetup #1, Moscow, February 2020, Mail.ru
+
+[Write these tests now.](https://youtu.be/04ZkeQHS5kk?t=5737) - PiterJs #43, Saint-Petersburg, December 2019, Infobip
+
+---
+
 ### :date: Latest Slides
 
 - [React to Svelte. The almost easy way.](https://github.com/vtcaregorodtcev/slides/blob/master/react%20to%20svelte%2C%20the%20almost%20easy%20way/Svelte%20Russia%20Meetup%20%231.pdf) - Svelte Russia Meetup #1, February 2020
