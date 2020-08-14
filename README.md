@@ -35,7 +35,7 @@
 
 ---
 
-### :date: Latest YouTube Speaches
+### :loudspeaker:  Latest YouTube Speaches
 
 [React to Svelte. The almost easy way.](https://www.youtube.com/watch?v=FBk5j62O4f0) - Svelte Russia Meetup #1, Moscow, February 2020, Mail.ru
 
@@ -43,7 +43,7 @@
 
 ---
 
-### :date: Latest Slides
+### :date:  Latest Slides
 
 - [React to Svelte. The almost easy way.](https://github.com/vtcaregorodtcev/slides/blob/master/react%20to%20svelte%2C%20the%20almost%20easy%20way/Svelte%20Russia%20Meetup%20%231.pdf) - Svelte Russia Meetup #1, February 2020
 - [Write these tests now.](https://github.com/vtcaregorodtcev/slides/blob/master/%D0%BD%D0%B0%D0%BF%D0%B8%D1%88%D0%B8%20%D1%82%D1%8B%20%D1%83%D0%B6%D0%B5%20%D1%8D%D1%82%D0%B8%20%D1%82%D0%B5%D1%81%D1%82%D1%8B/%D0%BD%D0%B0%D0%BF%D0%B8%D1%88%D0%B8%20%D1%82%D1%8B%20%D1%83%D0%B6%D0%B5%20%D1%8D%D1%82%D0%B8%20%D1%82%D0%B5%D1%81%D1%82%D1%8B.pdf) - PiterJS, December 2019
