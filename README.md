@@ -35,6 +35,12 @@
 
 ---
 
+### :scroll:  Latest Blog Posts
+
+[Реактивные Микро-фронтенды на Svelte](vtcaregorodtcev.github.io/blog/reactive_microfrontends/act_1)
+
+---
+
 ### :loudspeaker:  Latest YouTube Speaches
 
 [React to Svelte. The almost easy way.](https://www.youtube.com/watch?v=FBk5j62O4f0) - Svelte Russia Meetup #1, Moscow, February 2020, Mail.ru
