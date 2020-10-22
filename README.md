@@ -37,7 +37,7 @@
 
 ### :scroll:  Latest Blog Posts
 
-[Реактивные Микро-фронтенды на Svelte](vtcaregorodtcev.github.io/blog/reactive_microfrontends/act_1)
+[Реактивные Микро-фронтенды на Svelte](https://vtcaregorodtcev.github.io/blog/reactive_microfrontends/act_1)
 
 ---
 
