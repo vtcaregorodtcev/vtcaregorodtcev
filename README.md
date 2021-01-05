@@ -38,6 +38,7 @@
 ### :scroll:  Latest Blog Posts
 
 [Фронтендер пишет нейронки. Уровень сложности "хочу на ручки"](https://vtcaregorodtcev.github.io/blog/fpn/level0)
+
 [Реактивные Микро-фронтенды на Svelte](https://vtcaregorodtcev.github.io/blog/reactive_microfrontends/act_1)
 
 ---
