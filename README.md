@@ -5,6 +5,7 @@ a javascript enthusiast trying to prove that any JS dev is not just a pixel-move
 ### I contribute to open-source and make my own:
 
 - [Remark - AI-powered AWS-based bookmark manager](https://github.com/vtcaregorodtcev/remark-extension)
+- [Delete-Issue - Github action allows you to delete issues from the repo](https://github.com/vtcaregorodtcev/delete-issue)
 
 ### I speak public:
 
