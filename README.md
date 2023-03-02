@@ -7,6 +7,7 @@ a javascript enthusiast trying to prove that any JS dev is not just a pixel-move
 - [Remark - AI-powered AWS-based bookmark manager](https://github.com/vtcaregorodtcev/remark-extension)
 - [Delete-Issue - Github action allows you to delete issues from the repo](https://github.com/vtcaregorodtcev/delete-issue)
 - [AWS Api Gateway starter-template with Lambda and DynamoDB](https://github.com/vtcaregorodtcev/aws-rest-api-template)
+- ML in JavaScript: [Genetic Algorithm](https://github.com/vtcaregorodtcev/dino-ml) [[Demo](https://vtcaregorodtcev.github.io/dino-ml/)], [Reinforcement Learning](https://github.com/vtcaregorodtcev/RL-demo) [[Demo](https://vtcaregorodtcev.github.io/RL-demo/)]
 - [Online sticker board](https://github.com/vtcaregorodtcev/fuckts-maps) [[Demo](https://vtcaregorodtcev.github.io/fuckts-maps/#/fuckts/new)]
 
 ### I speak public:
