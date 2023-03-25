@@ -17,7 +17,7 @@ a javascript enthusiast trying to prove that any JS dev is not just a pixel-move
 - [React to Svelte. The almost easy way. [RU]](https://www.youtube.com/watch?v=FBk5j62O4f0) - Svelte Russia Meetup #1, Moscow, February 2020, Mail.ru
 - [Write these tests now. [RU]](https://youtu.be/04ZkeQHS5kk?t=5737) - PiterJs #43, Saint-Petersburg, December 2019, Infobip
 
-### I write ["2 mins dev's notes"](https://github.com/vtcaregorodtcev/2minsDevsNotes):
+### I write ["2 mins dev's notes"](https://vtcaregorodtcev.github.io/2minsDevsNotes/):
 
 ### Connect with me:
 
