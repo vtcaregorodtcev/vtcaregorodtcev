@@ -12,12 +12,15 @@ a javascript enthusiast trying to prove that any JS dev is not just a pixel-move
 
 ### I speak public:
 
+- [Myths about thick clients. [RU]](https://youtu.be/2NWiRjfUJNs) - I❤️Frontend, Moscow, June 2023
 - [A frontend carol. [RU]](https://www.youtube.com/watch?v=exZpJAPRe7Y) - FrontendConf, Moscow, October 2022
 - [Javascript developer of many faces. [RU]](https://www.youtube.com/watch?v=E2cVMS-G0-Y&ab_channel=CodeFestRussia) - Codefest, Online, May 2022
 - [React to Svelte. The almost easy way. [RU]](https://www.youtube.com/watch?v=FBk5j62O4f0) - Svelte Russia Meetup #1, Moscow, February 2020, Mail.ru
 - [Write these tests now. [RU]](https://youtu.be/04ZkeQHS5kk?t=5737) - PiterJs #43, Saint-Petersburg, December 2019, Infobip
 
-### I write ["2 mins dev's notes"](https://vtcaregorodtcev.github.io/2minsDevsNotes/):
+### I write ["2 mins dev's notes" [EN]](https://vtcaregorodtcev.github.io/2minsDevsNotes/):
+
+### I collect tech articles in Telegram: ["Thanks, I like IT" [RU]](https://t.me/thxilikeit)
 
 ### Connect with me:
 
