@@ -13,6 +13,7 @@ a javascript enthusiast trying to prove that any JS dev is not just a pixel-move
 ### I speak public:
 
 - [Myths about thick clients. [RU]](https://youtu.be/2NWiRjfUJNs) - I❤️Frontend, Moscow, June 2023
+- [Thick client – means slow? [RU]](https://youtu.be/9GFFO0lA1r8?si=-e-UH3VquhrfmeOV) - HolyJs, Online, May 2023
 - [A frontend carol. [RU]](https://www.youtube.com/watch?v=exZpJAPRe7Y) - FrontendConf, Moscow, October 2022
 - [Javascript developer of many faces. [RU]](https://www.youtube.com/watch?v=E2cVMS-G0-Y&ab_channel=CodeFestRussia) - Codefest, Online, May 2022
 - [React to Svelte. The almost easy way. [RU]](https://www.youtube.com/watch?v=FBk5j62O4f0) - Svelte Russia Meetup #1, Moscow, February 2020, Mail.ru
