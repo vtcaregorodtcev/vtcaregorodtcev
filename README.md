@@ -12,6 +12,7 @@ a javascript enthusiast trying to prove that any JS dev is not just a pixel-move
 
 ### I speak public:
 
+- [Git submodules: we have monorepo at home. [EN]](https://youtu.be/9dcL-KqjBqA?si=iBFw9GSRfgfktO2t) - Conf42.JavaScript, Online, November 2023
 - [Myths about thick clients. [RU]](https://youtu.be/2NWiRjfUJNs) - I❤️Frontend, Moscow, June 2023
 - [Thick client – means slow? [RU]](https://youtu.be/9GFFO0lA1r8?si=-e-UH3VquhrfmeOV) - HolyJs, Online, May 2023
 - [A frontend carol. [RU]](https://www.youtube.com/watch?v=exZpJAPRe7Y) - FrontendConf, Moscow, October 2022
