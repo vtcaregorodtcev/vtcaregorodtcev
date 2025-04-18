@@ -12,6 +12,10 @@ a javascript enthusiast trying to prove that any JS dev is not just a pixel-move
 
 ### I speak public:
 
+- [Observability Passport: What? Where? When? In My App [RU]](https://youtu.be/BcGvHgyfboQ?si=SabKL-uRi3O63MVc) - Podlodka React Crew #2, Online, February 2025
+- [Valibot Chronicles: A Saga of Flawless Data in the JS World [RU]](https://youtu.be/CPQocxDa7cc?si=MlzWauVauN8nV5dk) - CodeTalks, Almaty KZ, November 2024
+- [Forward to the Past! Or How to Reconcile Clean Architecture and RSC? [RU]](https://youtu.be/zArWlq-moZM?si=FmT3qfBy3pMKZIt6) - HolyJS, Moscow, April 2024
+- [I Read 100 Articles About Server Components. Did I Understand Anything? [RU]](https://youtu.be/rCs6bywR4bI?si=5TYDtbTjnEA90lWx) - DUMP SPB, Saint-Petersburg, January 2024
 - [Git submodules: we have monorepo at home. [EN]](https://youtu.be/9dcL-KqjBqA?si=iBFw9GSRfgfktO2t) - Conf42.JavaScript, Online, November 2023
 - [Myths about thick clients. [RU]](https://youtu.be/2NWiRjfUJNs) - I❤️Frontend, Moscow, June 2023
 - [Thick client – means slow? [RU]](https://youtu.be/9GFFO0lA1r8?si=-e-UH3VquhrfmeOV) - HolyJs, Online, May 2023
